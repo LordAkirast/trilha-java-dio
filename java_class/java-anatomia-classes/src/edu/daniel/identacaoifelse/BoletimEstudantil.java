@@ -1,3 +1,5 @@
+package edu.daniel.sintaxejava;
+
 public class BoletimEstudantil { ///classe
     public static void main(String[] args) { ///metodo
         int mediaFinal = 2; ///fluxo
